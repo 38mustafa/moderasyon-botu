@@ -1,1 +1,1 @@
-# moderasyon-botu
+# public
